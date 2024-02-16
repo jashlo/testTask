@@ -1,0 +1,63 @@
+@media screen and (min-width: 1920px)
+{
+    body {
+        font-size: 16px; 
+    }
+
+    .container {
+        max-width: 800px; 
+        margin-top: 150px; 
+    }
+
+    #question {
+        margin-left: 0; 
+    }
+
+    .btn {
+        margin-left: 60px; 
+    }
+
+    #timer {
+        margin-right: 942px;
+        margin-top: 46px;
+    }
+}
+@media screen and (device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3)
+{
+    body {
+      font-size: 10px; 
+    }
+    
+    .container {
+      max-width: 300px; 
+      margin-top: 60px; 
+    }
+    
+    #question {
+      font-size: 1rem; 
+      margin-left: 10px; 
+    }
+    
+    .btn {
+      margin-left: 10px; 
+      font-size: 0.8rem; 
+    }
+    
+    #timer {
+      margin-right: 40px;
+      margin-top: 35px; 
+      font-size: 1rem; 
+    }
+    
+    .answer button {
+      font-size: 0.8rem; 
+    }
+    
+    #next-button,
+    #refresh {
+      font-size: 0.8rem; 
+    }
+}
+  
+
+  
